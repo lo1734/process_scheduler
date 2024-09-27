@@ -1,1 +1,1 @@
-# process_scheduler
+# CPU-scheduling-simulator
